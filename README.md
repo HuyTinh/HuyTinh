@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huy Tinh
 ================================================================================================================================
 
-* ✉️  You can contact me at [tinhnth15112003@gmail.com](mailto:tinhnth15112003@gmail.com)
+* ✉️  You can contact me at [Email](mailto:tinhnth15112003@gmail.com)
 * 🧠  I'm learning Java, Go, React, NodeJS
 
 ### Skills
