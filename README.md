@@ -1,21 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huy Tinh
-================================================================================================================================
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huy+Tinh!;" />
+</h1>
 
-* ✉️  You can contact me at [Email](mailto:tinhnth15112003@gmail.com)
-* 🧠  I'm learning Java, Go, React, NodeJS
-
-### Skills
+<h3 align="center">A passionate software developer from HCM City</h3>
 
 
-<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<div align="center">
+ 
+ 🌱 I’m currently learning **Supabase, AWS**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,vscode,github,docker,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,javascript,typescript,mysql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,javascript,typescript,mysql,sqlite,firebase" /><br>
 </div>
 
-### Badges
+<hr/>
 
-<b>My GitHub Stats</b>
-
-<p align="center"><a href="http://www.github.com/HuyTinh"><img src="https://github-readme-stats.vercel.app/api?username=HuyTinh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HuyTinh's GitHub stats" /></a></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=HuyTinh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
