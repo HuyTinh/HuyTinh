@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,vscode,github,docker,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,javascript,typescript,mysql,sqlite,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,javascript,typescript,postgres,mysql,sqlite,firebase" /><br>
 </div>
 
 <hr/>
