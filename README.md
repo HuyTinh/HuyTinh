@@ -8,6 +8,9 @@
   <a href="mailto:tinhnth15112003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+ <a href="https://www.facebook.com/share/1F3j8AK1Jx/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
