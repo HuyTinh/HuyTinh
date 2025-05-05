@@ -3,12 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate software developer from HCM City</h3>
-
-
-<div align="center">
- 
- 🌱 I’m currently learning **Supabase, AWS**
- </div>
  
 <div align="center"> 
   <a href="mailto:tinhnth15112003@gmail.com">
