@@ -18,8 +18,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,vscode,github,docker,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,javascript,typescript,postgres,mysql,sqlite,firebase" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,svelte,bootstrap,vscode,github,docker,tailwind,git&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,python,java,go,javascript,typescript,postgres,oracle,mysql,sqlite,firebase&theme=dark" /><br>
 </div>
 
 <hr/>
