@@ -11,6 +11,9 @@
  <a href="https://www.facebook.com/share/1F3j8AK1Jx/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
+<a href="https://www.linkedin.com/in/tinh-nguyen-00a6b831b">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
 </div>
 
  <hr/>
