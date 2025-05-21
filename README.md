@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/tinh-nguyen-00a6b831b">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://www.hackbaerrank.com/profile/tinhnth15112003">
+    <a href="https://www.hackerrank.com/profile/tinhnth15112003">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </div>
