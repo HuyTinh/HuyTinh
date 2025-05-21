@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/tinh-nguyen-00a6b831b">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
+    <a href="https://www.hackbaerrank.com/profile/tinhnth15112003">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
