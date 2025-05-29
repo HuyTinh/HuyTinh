@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
    <a href="https://drive.google.com/file/d/1E35GNOQbYhkO7lhzVK1SrE_zgGf73twD/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My%20CV-018EF5?style=for-the-badge?logo=readme&logoColor=fff" />
+    <img src="https://img.shields.io/badge/My%20CV-018EF5?style=for-the-badge&logo=readme&logoColor=fff" />
   </a>
 </div>
 
