@@ -5,6 +5,7 @@
 <h3 align="center">A passionate software developer from Ho Chi Minh City</h3>
  
 <div align="center"> 
+    
   <a href="mailto:tinhnth15112003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -16,6 +17,9 @@
   </a>
     <a href="https://www.hackerrank.com/profile/tinhnth15112003">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+   <a href="https://drive.google.com/file/d/1E35GNOQbYhkO7lhzVK1SrE_zgGf73twD/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My%20CV-018EF5?logo=readme&logoColor=fff" />
   </a>
 </div>
 
